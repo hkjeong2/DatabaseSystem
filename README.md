@@ -1,4 +1,4 @@
-# DatabaseSystem
+# Database_System
 Univ.
 
 데이타베이스시스템 (4학년)
